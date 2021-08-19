@@ -8,7 +8,7 @@ def main():
 
     cm = (mensajes+megas+min)*0.8
 
-    print("El costo mensual es: ",cm)
+    print("El costo mensual es:",cm)
 
 
 if __name__ == '__main__':
