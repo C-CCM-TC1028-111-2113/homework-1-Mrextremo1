@@ -6,7 +6,7 @@ def main():
     ts = tm*60
     d = (5.7*ts)/10
 
-    print("Centímetros recorrídos:",d)
+    print("Centímetros recorridos:",d)
 
 if __name__ == '__main__':
     main()
